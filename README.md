@@ -95,6 +95,33 @@ It helps users manage daily finances, track income & expenses, and visualize spe
 
 ## 📸 Screenshots
 
+### Dashboard
+![Dashboard](screenshots/dashboard.jpeg)
+
+### Login Page
+![Login](screenshots/login.jpeg)
+
+### Home Page
+![Home](screenshots/home.jpeg)
+
+### Categories
+![Categories](screenshots/categories.png)
+
+### New Transaction
+![New Transaction](screenshots/new_transaction.jpeg)
+
+### Transaction History
+![Transaction History](screenshots/transaction_history.jpeg)
+
+### Statistics
+![Statistics](screenshots/statistics.png)
+
+### Settings
+![Settings](screenshots/settings.png)
+
+### Users
+![Users](screenshots/users.png)
+
 
 ---
 
