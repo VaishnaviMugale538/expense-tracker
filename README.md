@@ -110,9 +110,6 @@ It helps users manage daily finances, track income & expenses, and visualize spe
 ### 📜 Transaction History  
 ![Transaction History](screenshots/transaction_history.jpeg)
 
-### ➕ New Transaction  
-![New Transaction](screenshots/new_transaction.jpeg)
-
 ### 💾 Saved Transaction  
 ![Saved Transaction](screenshots/save_transaction.png)
 
