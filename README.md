@@ -95,32 +95,42 @@ It helps users manage daily finances, track income & expenses, and visualize spe
 
 ## 📸 Screenshots
 
-### Dashboard
-![Dashboard](screenshots/dashboard.jpeg)
-
-### Login Page
-![Login](screenshots/login.jpeg)
-
-### Home Page
+### 🏠 Home  
 ![Home](screenshots/home.jpeg)
 
-### Categories
-![Categories](screenshots/categories.png)
+### 🔐 Login  
+![Login](screenshots/login.jpeg)
 
-### New Transaction
-![New Transaction](screenshots/new_transaction.jpeg)
+### 📝 Register  
+![Register](screenshots/register.jpeg)
 
-### Transaction History
+### 📊 Dashboard  
+![Dashboard](screenshots/dashboard.jpeg)
+
+### 📜 Transaction History  
 ![Transaction History](screenshots/transaction_history.jpeg)
 
-### Statistics
+### ➕ New Transaction  
+![New Transaction](screenshots/new_transaction.jpeg)
+
+### 💾 Saved Transaction  
+![Saved Transaction](screenshots/save_transaction.png)
+
+### 📈 Statistics  
 ![Statistics](screenshots/statistics.png)
 
-### Settings
+### ⚙️ Settings  
 ![Settings](screenshots/settings.png)
 
-### Users
+### 👥 Users  
 ![Users](screenshots/users.png)
+
+### 🗂️ Categories  
+![Categories](screenshots/categories.png)
+
+### ➕ New Category  
+![New Category](screenshots/new_category.png)
+
 
 
 ---
